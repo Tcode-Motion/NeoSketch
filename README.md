@@ -1,5 +1,5 @@
 <div align="center">
-<img src="relice.png" alt="NeoSketch Banner" width="350" style="border-radius: 100px;" />
+<img src="Relice.png" alt="NeoSketch Banner" width="800" />
 </div>
 
 # ◈ NeoSketch
