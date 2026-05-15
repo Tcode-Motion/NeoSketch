@@ -1,6 +1,6 @@
-<div align="center">
-<img src="Relice.png" alt="NeoSketch Banner" width="800" />
-</div>
+<p align="center">
+  <img src="Relice.png" alt="NeoSketch Banner" width="650"/>
+</p>
 
 # ◈ NeoSketch
 
