@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- LOGO PLACEHOLDER -->
-<img src="assets/logo.png" alt="NeoSketch Logo" width="120" height="120" />
+<img src="relice.png" alt="NeoSketch Logo" width="120" height="120" />
 
 <br/>
 
