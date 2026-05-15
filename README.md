@@ -1,5 +1,10 @@
 <div align="center">
-<img src="relice.png" alt="NeoSketch Banner" width="900" style="border-radius: 20px;" />
+<svg width="900" height="auto" xmlns="http://www.w3.org/2000/svg">
+  <image href="relice.png" width="900" clip-path="url(#round)" />
+  <clipPath id="round">
+    <rect width="900" height="400" rx="20" ry="20"/>
+  </clipPath>
+</svg>
 </div>
 
 # ◈ NeoSketch
