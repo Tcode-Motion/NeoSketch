@@ -1,9 +1,6 @@
 <div align="center">
-
-<!-- LOGO PLACEHOLDER -->
-<img src="relice.png" alt="NeoSketch Logo" width="120" height="120" />
-
-<br/>
+<img src="relice.png" alt="NeoSketch Banner" width="900" style="border-radius: 20px;" />
+</div>
 
 # ◈ NeoSketch
 
